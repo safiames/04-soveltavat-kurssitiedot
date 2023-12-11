@@ -47,3 +47,5 @@ const Total = (props) => {
     </>
   );
 };
+
+export default Course;
